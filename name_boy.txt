@@ -82,10 +82,7 @@
 برزین
 برزو
 برسام
-<<<<<<< HEAD
-=======
 برنا
->>>>>>> Add Some Names And Remove Some Addtional Parts.
 برنا
 برومند
 بزرگمهر
@@ -93,10 +90,7 @@
 به‌آیین
 بهبد
 بهداد
-<<<<<<< HEAD
 بهراد
-=======
->>>>>>> Add Some Names And Remove Some Addtional Parts.
 بهرام
 بهرنگ
 بهروز
@@ -105,10 +99,7 @@
 بهمن
 بهمنش
 بهنام
-<<<<<<< HEAD
-=======
 پویا
->>>>>>> Add Some Names And Remove Some Addtional Parts.
 تابان
 تیرداد
 تیریژ
